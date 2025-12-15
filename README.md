@@ -1,5 +1,11 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>🔭 I’m currently working on<br>Backend & distributed systems projects<br>Cloud-native services (microservices, APIs, data pipelines)<br><br>System design and performance optimization<br>👯 I’m looking to collaborate on<br>Open-source backend tools<br>>Distributed systems, cloud platforms, or infra projects<br>Developer productivity or AI-powered systems<br>🤝 I’m looking for help with<br>Scaling systems under high load<br>Advanced observability and reliability patterns<br>Open-source contributions best practices<br>🌱 I’m currently learning<br>Advanced system design<br>Cloud platforms (Azure / AWS internals)<br><br>AI-assisted software engineering & ML in production<br><br>💬 Ask me about<br>Backend engineering<br>Distributed systems & system design interviews<br>Java, APIs, databases, caching, concurrency<br>⚡ Fun fact<br>I enjoy breaking down complex systems into simple mental models — and explaining them clearly.
+# 💫 About Me
+
+🔭 **Working on:** Backend & distributed systems, cloud-native services  
+👯 **Open to collaborate on:** Open-source, infra, distributed systems  
+🌱 **Learning:** System design, Azure/AWS internals, ML in production  
+💬 **Ask me about:** Backend engineering, system design, Java, APIs  
+⚡ **Fun fact:** I enjoy simplifying complex systems and explaining them clearly
+
 
 
 ## 🌐 Socials:
